@@ -1,1 +1,1 @@
-# MERN-Auth
+# JWT-Authentication based Login System
